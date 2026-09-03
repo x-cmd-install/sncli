@@ -1,11 +1,13 @@
 about:
-  description: Simplenote CLI
+  description:
+  |
+    Simplenote CLI
   license: MIT
   homepage: 
   head: befe46a
   archived: false
   latestVersion: 0.4.2
-  collectedAt: 2026-09-03T05:13:08Z
+  collectedAt: 2026-09-03T22:36:07Z
 timeline:
   created: 2014-07-14
   lastCommit: 2025-06-01
@@ -21,7 +23,7 @@ popularity:
 language:
   Python: 146146
   Dockerfile: 894
-totalLine: 147040
+totalBytes: 147040
 recent:
   last30d:
     since: 2026-08-04
